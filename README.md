@@ -51,32 +51,6 @@ Showcases my projects, including descriptions and links to their GitHub reposito
 
 A contact form where visitors can send me messages directly.
 
-## Usage
-
-To view the portfolio locally:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/portfolio.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd portfolio
-   ```
-
-3. Open `index.html` in your web browser:
-
-   ```bash
-   open index.html
-   ```
-
-## Contributing
-
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. All suggestions are welcome!
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
